@@ -1,0 +1,17 @@
+{
+    "title": "Tax Idle Clicker",
+    "productId": "com.partypowered.games.tax.idle.clicker",
+    "briefDescription": "",
+    "description": "Manage your own country.\n\nTap the screen to start collecting money from taxes, and invest it upgrading your economy.\n\nAutomatize every industry, sit, and relax watching how your economy keeps growing.\n\nInvest your so well earned cash on upgrades that will make your industries more.\n\nUnlock every achievement being the smartest investor.",
+    "screenshots": [
+        "tax-idle-clicker/000.gif",
+        "tax-idle-clicker/001.gif",
+        "tax-idle-clicker/002.gif",
+        "tax-idle-clicker/003.gif"
+    ],
+    "content": [
+        { "type": "left-panel red", "parts": [ "title" ] },
+        { "type": "spaced-panel", "parts": [ "description", "screenshot" ] },
+        { "type": "right-panel", "parts": [ "badge-google" ] }
+    ]
+}

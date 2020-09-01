@@ -1,0 +1,17 @@
+{
+    "title": "Meat jump",
+    "productId": "com.partypowered.games.meatjump",
+    "briefDescription": "",
+    "description": "Meat Jump!\n\nThe amazing piece of meat is ready to jump and escape from the earth carnivores.\n\nHours of addictive gaming.\n\nSimple to play. Easy to have fun.",
+    "screenshots": [
+        "meat-jump/000.gif",
+        "meat-jump/001.gif",
+        "meat-jump/002.gif",
+        "meat-jump/003.gif"
+    ],
+    "content": [
+        { "type": "left-panel blue", "parts": [ "title" ] },
+        { "type": "spaced-panel", "parts": [ "screenshot", "description" ] },
+        { "type": "right-panel", "parts": [ "badge-google" ] }
+    ]
+}
