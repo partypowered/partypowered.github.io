@@ -1,18 +1,18 @@
 {
-    "title": "Meat jump",
-    "productId": "com.partypowered.games.meatjump",
+    "title": "Cyberpunk 2048 Puzzle",
+    "productId": "com.partypowered.games.cyberpunk2077puzzle",
     "briefDescription": "",
     "description": "Meat Jump!\n\nThe amazing piece of meat is ready to jump and escape from the earth carnivores.\n\nHours of addictive gaming.\n\nSimple to play. Easy to have fun.",
     "screenshots": [
-        "meat-jump/000.gif",
-        "meat-jump/001.gif",
-        "meat-jump/002.gif",
-        "meat-jump/003.gif"
+        "cyberpunk-2048/000.gif",
+        "cyberpunk-2048/001.gif",
+        "cyberpunk-2048/002.gif",
+        "cyberpunk-2048/003.gif"
     ],
-    "theme": "blue",
+    "theme": "red",
     "content": [
         { "type": "left-panel", "parts": [ "title" ] },
-        { "type": "spaced-panel", "parts": [ "screenshot", "description" ] },
+        { "type": "spaced-panel", "parts": [ "description", "screenshot" ] },
         { "type": "right-panel", "parts": [ "badge-google" ] }
     ]
 }

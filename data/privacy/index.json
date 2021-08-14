@@ -1,0 +1,12 @@
+{
+    "list": [
+        { "path": "2048-classic", "name": "2048 Classic" },
+        { "path": "choose-or-die", "name": "Choose or Die" },
+        { "path": "cyberpunk-2048-puzzle", "name": "Cyberpunk 2048" },
+        { "path": "easy-auto", "name": "Easy Auto" },
+        { "path": "fidget-spinner-original", "name": "Fidget Spinner Original" },
+        { "path": "like-idle-clicker", "name": "Like Idle Clicker" },
+        { "path": "meat-jump", "name": "Meat Jump" },
+        { "path": "tax-idle-clicker", "name": "Tax Idle Clicker" }
+    ]
+}

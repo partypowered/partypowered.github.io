@@ -9,8 +9,9 @@
         "tax-idle-clicker/002.gif",
         "tax-idle-clicker/003.gif"
     ],
+    "theme": "yellow",
     "content": [
-        { "type": "left-panel red", "parts": [ "title" ] },
+        { "type": "left-panel", "parts": [ "title" ] },
         { "type": "spaced-panel", "parts": [ "description", "screenshot" ] },
         { "type": "right-panel", "parts": [ "badge-google" ] }
     ]
